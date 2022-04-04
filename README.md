@@ -1,15 +1,6 @@
 # facebook_clone
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img width="485" alt="Screen Shot 2022-04-04 at 4 36 59 PM" src="https://user-images.githubusercontent.com/32479488/161580587-4c9eae3f-811b-40bc-a458-c3157daab159.png">
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
